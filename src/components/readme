@@ -1,0 +1,5 @@
+Components are reusable Vue instances in application.
+Basically you can create custom element and reuse inside application. 
+Try to keep well organize file structure for components its very help when reuse and customize.
+HTML, JS, and CSS are all located in one single file. 
+this is okay for small components, and you could argue that it promotes keeping things simple and breaking big components into many smaller components. and keep readme file for each components. it very help to understand other developer what this component and how use

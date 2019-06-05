@@ -1,0 +1,2 @@
+This folder contain most common and nature files of your application.
+You can make it as a global variable then import the library into necessary file:

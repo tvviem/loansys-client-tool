@@ -1,0 +1,4 @@
+This folder contain all http request (API call).
+I used axios as HTTP client for making api calls instead of vue-resource.
+Axios is a very popular JavaScript library for making HTTP requests.
+It’ s an HTTP client that makes use of the modern Promises API by default and runs on both the client and the server.
